@@ -1,6 +1,3 @@
-/** Author: Polatkan Eren Polat
- Assignment by Outlier.org */
-
 import java.util.Scanner;
 import java.lang.Math;
 
